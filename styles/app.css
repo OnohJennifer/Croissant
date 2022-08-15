@@ -1,0 +1,26 @@
+:root {
+  --background-colour: #f8e8a6;
+}
+
+body {
+  background: var(--background-colour);
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 20px;
+}
+
+h1,
+p,
+h2 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.homepage-link,
+.photo-link,
+.contact-link {
+  margin: 0 10px;
+  color: #e46161;
+}
